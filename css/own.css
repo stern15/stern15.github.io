@@ -6,9 +6,9 @@ body{
 }
 .myPicture{
 	border-radius: 50%;
-	-moz-box-shadow:    3px 3px 5px 6px #ccc;
-    -webkit-box-shadow: 3px 3px 5px 6px #ccc;
-    box-shadow:         3px 3px 5px 6px #ccc;
+	margin-top:7%;
+
+
 }
 
 .cont2 a{
@@ -32,8 +32,9 @@ body{
 }
 .clipart{
 	margin-left: -10.5%;
-	margin-top: -6%;
+	margin-top:-3.5%;
 	width: 58%;
 	position: absolute;
+ 
 	
 }

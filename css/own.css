@@ -1,12 +1,15 @@
 body{
 	font-family: 'Quicksand', sans-serif;
 	font-size: xx-large;
-
+    padding-left: 5%;
+    padding-right: 5%;
 
 }
 .myPicture{
 	border-radius: 50%;
-	margin-top:17%;
+	margin-top:5%;
+	margin-left:30%;
+	width: 78%;
 }
 
 .cont2 a{
@@ -27,12 +30,24 @@ body{
 	color: black;
 	text-decoration: underline;
 }
+.cont2 a:active{
+    background-color: white;
+
+}
+.cont2:visited{
+	background-color: blackxsx;
+
+}
 .clipart{
-	margin-left: -10.5%;
-	margin-top:3%;
-	width: 58%;
+	margin-left: -13.5%;
+	margin-top:10%;
+	width: 45%;
 	position: absolute;
 }
 .corner2{
 	margin-left: 60%;
+	margin-top:35%;
+}
+.corner1 {
+	margin-top: 5%;
 }

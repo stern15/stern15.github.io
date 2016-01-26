@@ -19,10 +19,21 @@ body{
 	color: white;
 	background-color: black;
 	margin-left: 20%;
+	-moz-box-shadow:    3px 3px 5px 6px #ccc;
+    -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+    box-shadow:         3px 3px 5px 6px #ccc;
+
 
 }
 .cont2 a:hover {
 	background-color: white;
 	color: black;
 	text-decoration: underline;
+}
+.clipart{
+	margin-left: -10.5%;
+	margin-top: -6%;
+	width: 58%;
+	position: absolute;
+	
 }

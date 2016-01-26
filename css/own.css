@@ -6,8 +6,9 @@ body{
 }
 .myPicture{
 	border-radius: 50%;
-	margin-top:7%;
+	margin-top:17%;
 }
+
 .cont2 a{
 	text-align: center;
 	font-size: 60%;
@@ -28,7 +29,7 @@ body{
 }
 .clipart{
 	margin-left: -10.5%;
-	margin-top:-3.5%;
+	margin-top:0%;
 	width: 58%;
 	position: absolute;
 }

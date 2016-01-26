@@ -1,7 +1,7 @@
 body{
 	font-family: 'Quicksand', sans-serif;
 	font-size: xx-large;
-	padding:5%;
+
 
 }
 .myPicture{
@@ -29,7 +29,10 @@ body{
 }
 .clipart{
 	margin-left: -10.5%;
-	margin-top:0%;
+	margin-top:3%;
 	width: 58%;
 	position: absolute;
+}
+.corner2{
+	margin-left: 60%;
 }

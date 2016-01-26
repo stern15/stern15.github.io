@@ -7,13 +7,7 @@ body{
 .myPicture{
 	border-radius: 50%;
 	margin-top:7%;
-
-
 }
-.button{
-	margin-right: 15%;
-}
-
 .cont2 a{
 	text-align: center;
 	font-size: 60%;
@@ -21,12 +15,11 @@ body{
 	border-radius: 50%;
 	color: white;
 	background-color: black;
-	margin-left: 20%;
+	margin-left: 50%;
+	margin-top: 20%;
 	-moz-box-shadow:    3px 3px 5px 6px #ccc;
     -webkit-box-shadow: 3px 3px 5px 6px #ccc;
     box-shadow:         3px 3px 5px 6px #ccc;
-
-
 }
 .cont2 a:hover {
 	background-color: white;
@@ -38,6 +31,4 @@ body{
 	margin-top:-3.5%;
 	width: 58%;
 	position: absolute;
- 
-	
 }

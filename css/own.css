@@ -23,6 +23,11 @@ cont1{
     left:25%;
 	width: 29.5%;
 }
+.cont2 p{
+	padding-top: 20%;
+	padding-left: 8%;
+	font-style: italic;
+}
 .cont2 a{
    width: 10%;
    background-color: transparent;
@@ -92,11 +97,9 @@ body{
 }
 .corner2{
 	margin-top:-5px;
-	
 }
-	
 }
 .corner2{
 	margin-left: 85%;
-	margin-top: -65%;
+	margin-top: -48%;
 }

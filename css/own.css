@@ -3,7 +3,7 @@ body{
 	font-size: xx-large;
     padding:5%;
 }
-.myLogo{
+.mySignature {
 	width:60%;
 	margin-left: 25%;
 	margin-top: 10%;
@@ -12,19 +12,28 @@ body{
 cont1{
     position: relative;
 }
-.circular{
+.clipart{
     position: absolute;
     width: 50%;
-    left:12.5%;
+    left:16%;
+    top:17%;
     
 }
 .myPicture{
 	position: absolute;
 	border-radius: 50%;
-    top:20%;
-    left:21.5%;
+    top:25.8%;
+    left:25%;
 	width: 29.5%;
+	-webkit-transition: all 0.3s ease-in-out 0.5s;
+    -moz-transition: all 0.3s ease-in-out 0.5s;
+    -o-transition: all 0.3s ease-in-out 0.5s;
+    transition: all 0.3s ease-in-out 0.5s;
 
+
+}
+.myPicture:hover{
+	height:200px;
 }
 
 .cont2 a{

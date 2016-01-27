@@ -22,9 +22,7 @@ cont1{
     top:230px;
     left:25%;
 	width: 29.5%;
-
 }
-
 .cont2 a{
    width: 10%;
    background-color: transparent;
@@ -76,7 +74,6 @@ body{
 }
 }
 /* large only */
-
 @media screen and (min-width: 64em) {
 body{
 	padding-right: 15%;
@@ -95,6 +92,11 @@ body{
 }
 .corner2{
 	margin-top:-5px;
+	
 }
 	
+}
+.corner2{
+	margin-left: 85%;
+	margin-top: -65%;
 }

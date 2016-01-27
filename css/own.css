@@ -1,15 +1,12 @@
 body{
 	font-family: 'Quicksand', sans-serif;
 	font-size: xx-large;
-
 }
 .mySignature {
 	width:60%;
 	margin-left: 25%;
 	margin-top: 10%;
-	
 }
-
 cont1{
     position: relative;
 }
@@ -18,7 +15,6 @@ cont1{
     width: 50%;
     left:16%;
     top:17%;
-    
 }
 .myPicture{
 	position: absolute;
@@ -28,19 +24,11 @@ cont1{
 	width: 29.5%;
 
 }
-.corner2{
-	margin-left: 60%;
-	margin-top:35%;
-}
-.corner1 {
-	margin-top: -15%;
-}
+
 .cont2 a{
    width: 10%;
    background-color: transparent;
 }
-
-
 /* Small only */
 @media screen and (min-width: 20em) and (max-width: 39.9375em) {
 body{
@@ -57,11 +45,9 @@ body{
 }
 .corner1{
 	margin-top: 20px;
-
 }
 .corner2{
 	margin-top:-5px;
-	
 }
 .mySignature{
 	margin-left: 120px;
@@ -73,7 +59,6 @@ body{
 	padding-right: 15%;
 
 }
-	
 .cont1{
     position: relative;
     width: 100%;
@@ -82,17 +67,13 @@ body{
 	position: absolute;
 	border-radius: 50%;
     top:65px;
-
 }	
 .corner1{
 	margin-top: 20px;
-
 }
 .corner2{
 	margin-top:-5px;
-	
 }
-
 }
 /* large only */
 
@@ -100,7 +81,6 @@ body{
 body{
 	padding-right: 15%;
 }
-
 .cont1{
     position: relative;
     width: 100%;
@@ -109,16 +89,12 @@ body{
 	position: absolute;
 	border-radius: 50%;
     top:88px;
-
 }	
 .corner1{
 	margin-top: 20px;
-
 }
 .corner2{
 	margin-top:-5px;
-	
 }
-
 	
 }

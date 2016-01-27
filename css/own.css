@@ -36,31 +36,10 @@ cont1{
 	margin-top: -15%;
 }
 .cont2 a{
-	text-align: center;
-	font-size: 60%;
-	border: 2px black solid;
-	border-radius: 50%;
-	color: white;
-	background-color: black;
-	margin-left: 50%;
-	margin-top: 20%;
-	-moz-box-shadow:    3px 3px 5px 6px #ccc;
-    -webkit-box-shadow: 3px 3px 5px 6px #ccc;
-    box-shadow:         3px 3px 5px 6px #ccc;
+   width: 10%;
+   background-color: transparent;
 }
-.cont2 a:hover {
-	background-color: white;
-	color: black;
-	text-decoration: underline;
-}
-.cont2 a:active{
-    background-color: white;
 
-}
-.cont2:visited{
-	background-color: blackxsx;
-
-}
 
 /* Small only */
 @media screen and (min-width: 20em) and (max-width: 39.9375em) {

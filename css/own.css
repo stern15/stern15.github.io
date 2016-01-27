@@ -120,7 +120,6 @@ body{
 @media screen and (min-width: 64em) {
 body{
 	padding-right: 15%;
-	padding-top: 15%;
 }
 
 .cont1{
@@ -130,7 +129,7 @@ body{
 .myPicture{
 	position: absolute;
 	border-radius: 50%;
-    top:65px;
+    top:88px;
 
 }	
 .corner1{

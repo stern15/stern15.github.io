@@ -26,10 +26,7 @@ cont1{
     left:25%;
 	width: 29.5%;
 
-
 }
-
-
 .cont2 a{
 	text-align: center;
 	font-size: 60%;
@@ -64,3 +61,18 @@ cont1{
 .corner1 {
 	margin-top: -15%;
 }
+/* Small only */
+@media screen and (max-width: 39.9375em) {
+	cont1{
+    position: relative;
+    width: 100%;
+}
+.myPicture{
+	position: absolute;
+	border-radius: 50%;
+    top:190px;
+
+
+}
+}
+

@@ -25,16 +25,10 @@ cont1{
     top:25.8%;
     left:25%;
 	width: 29.5%;
-	-webkit-transition: all 0.3s ease-in-out 0.5s;
-    -moz-transition: all 0.3s ease-in-out 0.5s;
-    -o-transition: all 0.3s ease-in-out 0.5s;
-    transition: all 0.3s ease-in-out 0.5s;
 
 
 }
-.myPicture:hover{
-	height:200px;
-}
+
 
 .cont2 a{
 	text-align: center;

@@ -74,7 +74,7 @@ body{
 .myPicture{
 	position: absolute;
 	border-radius: 50%;
-    top:57px;
+    top:52px;
 }
 .corner1{
 	margin-top: 20px;
@@ -92,7 +92,7 @@ body{
 @media screen and (min-width: 40em) and (max-width: 63.9375em) {
 body{
 	padding-right: 15%;
-	padding-top: 15%;
+
 }
 	
 .cont1{
@@ -102,7 +102,7 @@ body{
 .myPicture{
 	position: absolute;
 	border-radius: 50%;
-    top:50px;
+    top:65px;
 
 }	
 .corner1{
@@ -117,7 +117,7 @@ body{
 }
 /* large only */
 
-@media screen and (min-width: 71.875em) {
+@media screen and (min-width: 64em) {
 body{
 	padding-right: 15%;
 	padding-top: 15%;

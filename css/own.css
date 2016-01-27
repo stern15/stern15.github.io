@@ -9,6 +9,7 @@ body{
 	margin-top: 10%;
 	
 }
+
 cont1{
     position: relative;
 }
@@ -22,10 +23,17 @@ cont1{
 .myPicture{
 	position: absolute;
 	border-radius: 50%;
-    top:25.8%;
+    top:230px;
     left:25%;
 	width: 29.5%;
 
+}
+.corner2{
+	margin-left: 60%;
+	margin-top:35%;
+}
+.corner1 {
+	margin-top: -15%;
 }
 .cont2 a{
 	text-align: center;
@@ -54,15 +62,8 @@ cont1{
 
 }
 
-.corner2{
-	margin-left: 60%;
-	margin-top:35%;
-}
-.corner1 {
-	margin-top: -15%;
-}
 /* Small only */
-@media screen and (max-width: 39.9375em) {
+@media screen and (min-width: 20em) and (max-width: 39.9375em) {
 .cont1{
     position: relative;
     width: 100%;
@@ -83,6 +84,23 @@ cont1{
 .mySignature{
 	margin-left: 120px;
 }
-
 }
+/* Medium only */
+@media screen and (min-width: 40em) and (max-width: 63.9375em) {
+	
+.cont1{
+    position: relative;
+    width: 100%;
+}
+.myPicture{
+	position: absolute;
+	border-radius: 50%;
+    top:50px;
 
+}	
+}
+/* largeonly */
+
+@media screen and (min-width: 71.875em) {
+	
+}

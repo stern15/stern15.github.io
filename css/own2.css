@@ -1,3 +1,23 @@
-body{
-	padding: 5%;
+button{
+	margin-left: -34%;
+	margin-top: 11%;
+	background-color: #d6d6d6;
+	border: 2px black solid;
+    border-radius: 50%;
+	color: black;
+	position: fixed;
+}
+button:hover{
+	background-color: black;
+	color: white;
+    text-decoration: underline;
+    border: 2px black solid;
+    border-radius: 50%;
+}
+.corner2{
+	margin-left: -109%;
+	margin-top: 10%;
+}
+.logo{
+	width: 50%;
 }

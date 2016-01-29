@@ -1,5 +1,5 @@
 button{
-	margin-left: -34%;
+	margin-left: -25%;
 	margin-top: 11%;
 	background-color: #d6d6d6;
 	border: 2px black solid;
@@ -20,4 +20,6 @@ button:hover{
 }
 .logo{
 	width: 50%;
+	margin-top: -40%;
+	margin-left: -25%;
 }

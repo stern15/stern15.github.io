@@ -1,12 +1,13 @@
-button{
+button {
 	margin-left: -47%;
 	margin-top: 11%;
 	background-color: #d6d6d6;
 	border: 2px black solid;
     border-radius: 50%;
 	color: black;
-	position: fixed;
-}
+	 position: fixed;
+  z-index: 9999;
+	}
 button:hover{
 	background-color: black;
 	color: white;
@@ -28,11 +29,22 @@ button:hover{
     padding-top: 20%;
     line-height: 140%;
 }
+.introGen::first-letter {
+  font-weight: bold;
+  font-size: 2.5em;
+  font-style: italic;
+}
 .introCareer{
 	font-size: 1.80em;
 	padding-top: 20%;
 	line-height: 140%;
 }
+.introCareer::first-letter {
+  font-weight: bold;
+  font-size: 2.5em;
+  font-style: italic;
+}
+
 /*custom slide*/
 #tech-slideshow {
     height: 200px;
@@ -67,14 +79,21 @@ button:hover{
     100% { left: -1684px; }
 }
 /*-----------------second page-------------------------*/
-
+.BioPic{
+	width: 10%;
+}
 .fourth{
 	text-align: center;
 	padding-top: 20%;
 	
 }
-.fourt.p{
+.BioTex{
 	font-size: 1.80em;
+}
+.BioTex::first-letter {
+  font-weight: bold;
+  font-size: 2.5em;
+  font-style: italic;
 }
 
 

@@ -52,21 +52,20 @@ button:hover{
     overflow: hidden;
 }
 #tech-slideshow > div {
-    height: 600px;
-    width: 2526px;
-    background: url(http://cl.ly/9BJG/collage.jpg);
+    width: 5526px;
+    background: url(/Users/semasuka/my-personal-website/css/collage.jpg);
     position: absolute;
     top: 0;
     left: 0;
-    height: 100%;
+    height: 120%;
     
     -moz-transition:  opacity 0.5s ease-out; 
        -o-transition: opacity 0.5s ease-out; 
   -webkit-transition: opacity 0.5s ease-out; 
       -ms-transition: opacity 0.5s ease-out; 
 
-    -webkit-animation: moveSlideshow 60s linear infinite;
-    -moz-animation:    moveSlideshow 60s linear infinite;
+    -webkit-animation: moveSlideshow 20s linear infinite;
+    -moz-animation:    moveSlideshow 20s linear infinite;
     
 }
 
@@ -85,6 +84,7 @@ button:hover{
 .fourth{
 	text-align: center;
 	padding-top: 20%;
+	padding-bottom: 10%;
 	
 }
 .BioTex{

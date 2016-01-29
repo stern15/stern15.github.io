@@ -1,5 +1,5 @@
 button{
-	margin-left: -25%;
+	margin-left: -47%;
 	margin-top: 11%;
 	background-color: #d6d6d6;
 	border: 2px black solid;
@@ -24,10 +24,12 @@ button:hover{
 	margin-left: -25%;
 }
 .introGen{
-	
+	font-size: 1.80em;
+    padding-top: 54%;
+    line-height: 140%;
 }
 .introCareer{
 	font-size: 1.80em;
-	padding-top: 48%;
+	padding-top: 54%;
 	line-height: 140%;
 }

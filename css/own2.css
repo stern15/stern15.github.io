@@ -1,3 +1,8 @@
+body{
+	font-family: 'Quicksand', sans-serif;
+}
+
+
 button {
 	margin-left: -47%;
 	margin-top: 7%;
@@ -106,7 +111,7 @@ button:hover{
 	width:10%;
 }
 .PhiloTex{
-	font-size: 0.75em;
+	font-size: 1.80em;
 }
 .PhiloTex::first-letter 
 {

@@ -95,6 +95,15 @@ button:hover{
   font-size: 2.5em;
   font-style: italic;
 }
+/*------------------third page----------------------------*/
+.fifth{
+	text-align: center;
+	padding-top: 20%;
+	padding-bottom: 10%
+}
+.PhiloPic{
+	width:10%;
+}
 
 
 

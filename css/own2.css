@@ -152,5 +152,8 @@ button:hover{
 .EduTex p{
 	text-align: center;
 }
-
+br {
+	display:none;
+	
+}
 

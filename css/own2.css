@@ -131,12 +131,10 @@ button:hover{
 }
 .EduTex{
 	font-size: 1.80em;
+	text-align: left;
 }
-.EduTex::first-letter 
-{
-  font-weight: bold;
-  font-size: 2.5em;
-  font-style: italic;
+.EduTex p{
+	text-align: center;
 }
 
 

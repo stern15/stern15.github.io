@@ -56,6 +56,7 @@ button:hover{
     position: relative;
     overflow: hidden;
     border: black 2px solid;
+    border-radius: 50%;
 }
 #tech-slideshow > div {
     width: 5526px;
@@ -114,6 +115,24 @@ button:hover{
 	font-size: 1.80em;
 }
 .PhiloTex::first-letter 
+{
+  font-weight: bold;
+  font-size: 2.5em;
+  font-style: italic;
+}
+/*------------------fourth page----------------------------*/
+.sixth{
+	text-align: center;
+	padding-top: 20%;
+	padding-bottom: 10%;
+}
+.EduPic{
+	width:10%;
+}
+.EduTex{
+	font-size: 1.80em;
+}
+.EduTex::first-letter 
 {
   font-weight: bold;
   font-size: 2.5em;

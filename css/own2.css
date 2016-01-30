@@ -25,7 +25,8 @@ button:hover{
 	margin-top: 10%;
 }
 .corner1{
-	margin-bottom: 0%;
+    padding-left: 57%;
+    position: absolute;
 }
 .logo{
 	width: 50%;
@@ -33,9 +34,8 @@ button:hover{
 	margin-left: -35%;
 }
 .introGen{
-	position: absolute;
 	font-size: 1.80em;
-    padding-top:5%;
+    padding-top:15%;
     line-height: 140%;
 }
 .introGen::first-letter {
@@ -44,9 +44,8 @@ button:hover{
   font-style: italic;
 }
 .introCareer{
-	position: absolute;
 	font-size: 1.80em;
-	padding-top: 5%;
+	padding-top: 15%;
 	line-height: 140%;
 }
 .introCareer::first-letter {

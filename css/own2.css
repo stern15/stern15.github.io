@@ -1,168 +1,20 @@
 body{
 	font-family: 'Quicksand', sans-serif;
 }
-.third{
-    position: relative;
+.BioPic{
+	width: 10%;
 }
-button {
-	margin-left: -47%;
-	margin-top: 7%;
-	background-color: #d6d6d6;
-	border: 2px black solid;
-    border-radius: 50%;
-	color: black;
-	position: fixed;
-	}
-button:hover{
-	background-color: black;
-	color: white;
-    text-decoration: underline;
-    border: 2px black solid;
-    border-radius: 50%;
-}
-.corner2{
-	margin-left: -120%;
-	margin-top: 10%;
-}
-.corner1{
-    padding-left: 57%;
-    position: absolute;
-}
-.logo{
-	width: 50%;
-	margin-top: -40%;
-	margin-left: -35%;
-}
-.introGen{
-	font-size: 1.80em;
-    padding-top:15%;
-    line-height: 140%;
-}
-.introGen::first-letter {
-  font-weight: bold;
-  font-size: 2.5em;
-  font-style: italic;
-}
-.introCareer{
-	font-size: 1.80em;
-	padding-top: 15%;
-	line-height: 140%;
-}
-.introCareer::first-letter {
-  font-weight: bold;
-  font-size: 2.5em;
-  font-style: italic;
-}
-
-/*custom slide*/
-#tech-slideshow {
-    height: 200px;
-    position: relative;
-    overflow: hidden;
-    border: black 2px solid;
-    border-radius: 50%;
-}
-#tech-slideshow > div {
-    width: 5526px;
-    background: url(/Users/semasuka/my-personal-website/css/collage.jpg);
-    position: absolute;
-    top: -3px;
-    left: 0;
-    height: 100%;
-    
-    -moz-transition:  opacity 0.5s ease-out; 
-       -o-transition: opacity 0.5s ease-out; 
-  -webkit-transition: opacity 0.5s ease-out; 
-      -ms-transition: opacity 0.5s ease-out; 
-
-    -webkit-animation: moveSlideshow 80s linear infinite;
-    -moz-animation:    moveSlideshow 80s linear infinite;
-    
-}
-
-@-webkit-keyframes moveSlideshow {
-    0% { left: 0; }
-    100% { left: -1684px; }
-}
-@-moz-keyframes moveSlideshow {
-    0% { left: 0; }
-    100% { left: -1684px; }
-}
-/*------------------third page----------------------------*/
-.fifth{
+.fourth{
 	text-align: center;
-	padding-top: 20%;
+	padding-top: 8%;
 	padding-bottom: 10%;
-}
-.PhiloPic{
-	width:10%;
-}
-.PhiloTex{
-	font-size: 1.80em;
-}
-.PhiloTex::first-letter 
-{
-  font-weight: bold;
-  font-size: 2.5em;
-  font-style: italic;
-}
-/*------------------fourth page----------------------------*/
-.sixth{
-	text-align: center;
-	padding-top: 20%;
-	padding-bottom: 10%;
-}
-.EduPic{
-	width:10%;
-}
-.EduTex{
-	font-size: 1.80em;
-	text-align: left;
-}
-.EduTex p{
-	text-align: center;
-}
-/*------------------fifth page---------------------------------*/
-.seventh{
-	text-align: center;
-	padding-top: 20%;
-	padding-bottom: 10%;
-}
-.skillsPic{
-	width:10%;
-	border-radius: 50%;
-}
-.skillsList{
-	font-size: 1.80em;
-	text-align: left;
-}
-.EduTex p{
-	text-align: center;
-}
-br {
-	display:none;
 	
 }
-/*------------------sixth page---------------------------------*/
-.eighth{
-	text-align: center;
-	padding-top: 20%;
-	padding-bottom: 10%;
-}
-.WhyMePic{
-	width:10%;
-	border-radius: 50%;
-}
-.WhyMeTex{
+.BioTex{
 	font-size: 1.80em;
-	text-align: left;
 }
-.WhyMeTex p{
-	text-align: center;
-}
-.WhyMeTex::first-letter {
+.BioTex::first-letter {
   font-weight: bold;
   font-size: 2.5em;
   font-style: italic;
 }
-

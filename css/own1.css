@@ -1,9 +1,6 @@
 body{
 	font-family: 'Quicksand', sans-serif;
 }
-.third{
-    position: relative;
-}
 button {
 	margin-left: -47%;
 	margin-top: 7%;
@@ -26,7 +23,6 @@ button:hover{
 }
 .corner1{
     padding-left: 57%;
-    position: absolute;
 }
 .logo{
 	width: 50%;

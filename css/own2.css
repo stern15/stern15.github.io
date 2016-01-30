@@ -11,10 +11,15 @@ body{
 	
 }
 .BioTex{
-	font-size: 1.80em;
+	text-transform: lowercase;
+	font-size: 2.50em;
+	font-weight: 100;
 }
 .BioTex::first-letter {
-  font-weight: bold;
-  font-size: 2.5em;
+  font-size: 3.2em;
   font-style: italic;
+}
+.home{
+	width: 10%;
+	padding-top: 40%;
 }

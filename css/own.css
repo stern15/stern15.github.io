@@ -96,13 +96,11 @@ body{
 .corner1{
 	margin-top: 20px;
 }
-.corner2{
-	margin-top:-5px;
-}
+
 }
 .corner2{
 	margin-left: 85%;
-	margin-top: -48%;
+	margin-top: 0%;
 }
 /*----button-----*/
 

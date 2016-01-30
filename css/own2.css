@@ -1,7 +1,9 @@
 body{
 	font-family: 'Quicksand', sans-serif;
 }
-
+.third{
+    position: relative;
+}
 button {
 	margin-left: -47%;
 	margin-top: 7%;
@@ -23,16 +25,17 @@ button:hover{
 	margin-top: 10%;
 }
 .corner1{
-	margin-bottom: 10%;
+	margin-bottom: 0%;
 }
 .logo{
-	width: 60%;
+	width: 50%;
 	margin-top: -40%;
-	margin-left: -50%;
+	margin-left: -35%;
 }
 .introGen{
+	position: absolute;
 	font-size: 1.80em;
-    padding-top: 20%;
+    padding-top:5%;
     line-height: 140%;
 }
 .introGen::first-letter {
@@ -41,8 +44,9 @@ button:hover{
   font-style: italic;
 }
 .introCareer{
+	position: absolute;
 	font-size: 1.80em;
-	padding-top: 20%;
+	padding-top: 5%;
 	line-height: 140%;
 }
 .introCareer::first-letter {
@@ -63,17 +67,17 @@ button:hover{
     width: 5526px;
     background: url(/Users/semasuka/my-personal-website/css/collage.jpg);
     position: absolute;
-    top: 0;
+    top: -3px;
     left: 0;
-    height: 120%;
+    height: 100%;
     
     -moz-transition:  opacity 0.5s ease-out; 
        -o-transition: opacity 0.5s ease-out; 
   -webkit-transition: opacity 0.5s ease-out; 
       -ms-transition: opacity 0.5s ease-out; 
 
-    -webkit-animation: moveSlideshow 60s linear infinite;
-    -moz-animation:    moveSlideshow 60s linear infinite;
+    -webkit-animation: moveSlideshow 80s linear infinite;
+    -moz-animation:    moveSlideshow 80s linear infinite;
     
 }
 

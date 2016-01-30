@@ -10,8 +10,8 @@ button {
 	border: 2px black solid;
     border-radius: 50%;
 	color: black;
-	 position: fixed;
-  z-index: 9999;
+	position: fixed;
+    z-index: 9999;
 	}
 button:hover{
 	background-color: black;
@@ -144,6 +144,7 @@ button:hover{
 }
 .skillsPic{
 	width:10%;
+	border-radius: 50%;
 }
 .skillsList{
 	font-size: 1.80em;
@@ -164,6 +165,7 @@ br {
 }
 .WhyMePic{
 	width:10%;
+	border-radius: 50%;
 }
 .WhyMeTex{
 	font-size: 1.80em;

@@ -21,15 +21,24 @@
 	    <div class="cont2 columns small-12 medium-6 large-6">
             <img class="mySignature" src="css/semasukalogo.jpg" alt="mySignature">
             <p class=""><strong>READY TO MEET ME?<br>CLICK BELOW! ;-)</strong></p>
-            <a class="trigga" href="#"><img src="css/trigga.gif"></a>
+<!--             this is the button                                                     -->
+            <div class="wrap">
+                  <input type="submit" value="Log In" class="login" />
+            </div>
+<!-----   end                             ----->
             <img class="corner2" src="css/corner1.jpg" alt="cornerPic"> 
 	    </div>
 
 	</div>
-	
+
     <script src="js/vendor/jquery.min.js"></script>
     <script src="js/vendor/what-input.min.js"></script>
     <script src="js/foundation.min.js"></script>
     <script src="js/app.js"></script>
+    <script>
+		$('.button-wrap').on("click", function(){
+        $(this).toggleClass('button-active');
+        });
+	</script>
   </body>
 </html>

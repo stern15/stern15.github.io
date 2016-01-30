@@ -33,6 +33,9 @@ cont1{
    width: 10%;
    background-color: transparent;
 }
+.ready{
+	padding-left: 17%;
+}
 /* Small only */
 @media screen and (min-width: 20em) and (max-width: 39.9375em) {
 body{
@@ -103,7 +106,9 @@ body{
 	margin-top: 0%;
 }
 /*----button-----*/
-
+.login{
+	margin-left: 27%;
+}
 .wrap {
   background-color:#ffffff; 
   p {

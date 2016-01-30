@@ -1,0 +1,20 @@
+body{
+	font-family: 'Quicksand', sans-serif;
+}
+.BioPic{
+	width: 10%;
+}
+.fourth{
+	text-align: center;
+	padding-top: 8%;
+	padding-bottom: 10%;
+	
+}
+.BioTex{
+	font-size: 1.80em;
+}
+.BioTex::first-letter {
+  font-weight: bold;
+  font-size: 2.5em;
+  font-style: italic;
+}

@@ -2,7 +2,6 @@ body{
 	font-family: 'Quicksand', sans-serif;
 }
 
-
 button {
 	margin-left: -47%;
 	margin-top: 7%;
@@ -11,7 +10,6 @@ button {
     border-radius: 50%;
 	color: black;
 	position: fixed;
-    z-index: 9999;
 	}
 button:hover{
 	background-color: black;
@@ -21,7 +19,7 @@ button:hover{
     border-radius: 50%;
 }
 .corner2{
-	margin-left: -109%;
+	margin-left: -175%;
 	margin-top: 10%;
 }
 .logo{

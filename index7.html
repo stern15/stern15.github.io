@@ -28,12 +28,13 @@
 					<div class="codrops-top clearfix">
 						   <img src="css/corner2.jpg" class="corner2" alt="corner2">
 						<div class="nineth row">
-					 	<div class="columns small-12 medium-12 large-12">
+					 	<div class="columns email small-12 medium-12 large-12">
 						 	<h3>Wanna get in touch? Drop a message and will beed back to ASAP</h3>
-						      <form action="MAILTO:ssemasuka@gmail.com" method="post">
-                                  username:<input type="text" name="username" placeholder="enter your name"></input>
-                                  email:<input type="email" name="email" placeholder="enter your email"></input>
-                                  Your message:<input type="text" name="message" placeholder="enter your message" style="height:50%;"></input>
+						      <form action="MAILTO:ssemasuka@gmail.com" method="post" enctype="text/plain">
+                                  username:<input type="text" name="username" placeholder="enter your name" maxlength="20"></input>
+                                  email:<input type="email" name="email" placeholder="enter your email" maxlength="35"></input>
+                                  <textarea name="message" cols="40" rows="8" placeholder="enter your message"></textarea>
+                                  <input type="submit" value="send"></input><input type="reset" value="reset value"></input>
 						      </form>
                         </div>
 					 	    <a class="home" href="index1.html"><img src="css/home.png" alt="homePage"></a>

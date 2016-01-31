@@ -4,6 +4,9 @@ body{
 .skillsPic{
 	width: 10%;
 }
+h2{
+	font-family: 'Quicksand', sans-serif;
+}
 .seventh{
 	text-align: center;
 	padding-top: 8%;

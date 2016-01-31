@@ -4,6 +4,9 @@ body{
 .BioPic{
 	width: 10%;
 }
+h2{
+	font-family: 'Quicksand', sans-serif;
+}
 .fourth{
 	text-align: center;
 	padding-top: 8%;

@@ -4,6 +4,9 @@ body{
 .PhiloPic{
 	width: 10%;
 }
+h2{
+	font-family: 'Quicksand', sans-serif;
+}
 .fifth{
 	text-align: center;
 	padding-top: 8%;

@@ -1,6 +1,9 @@
 body{
 	font-family: 'Quicksand', sans-serif;
 }
+h2{
+	font-family: 'Quicksand', sans-serif;
+}	
 .WhyMePic{
 	width: 10%;
 }
@@ -8,7 +11,7 @@ body{
 	text-align: center;
 	padding-top: 8%;
 	padding-bottom: 10%;
-	
+
 }
 .WhyMeTex{
 	text-transform: lowercase;

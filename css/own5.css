@@ -1,6 +1,4 @@
-body{
-	font-family: 'Quicksand', sans-serif;
-}
+
 .skillsPic{
 	width: 10%;
 }
@@ -14,6 +12,7 @@ h2{
 	
 }
 .skillsList{
+	font-family: 'Quicksand', sans-serif;
 	text-align: left;
 	text-transform: lowercase;
 	font-size: 2.50em;

@@ -1,6 +1,4 @@
-body{
-	font-family: 'Quicksand', sans-serif;
-}
+
 h2{
 	font-family: 'Quicksand', sans-serif;
 }	
@@ -14,6 +12,7 @@ h2{
 
 }
 .EduTex{
+	font-family: 'Quicksand', sans-serif;
 	text-align: left;
 	text-transform: lowercase;
 	font-size: 2.50em;

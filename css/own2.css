@@ -1,6 +1,4 @@
-body{
-	font-family: 'Quicksand', sans-serif;
-}
+
 .BioPic{
 	width: 10%;
 }
@@ -14,6 +12,7 @@ h2{
 	
 }
 .BioTex{
+	font-family: 'Quicksand', sans-serif;
 	text-transform: lowercase;
 	font-size: 2.50em;
 	font-weight: 100;

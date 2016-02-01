@@ -61,7 +61,7 @@ button:hover{
 }
 #tech-slideshow > div {
     width: 5526px;
-    background: url(/Users/semasuka/my-personal-website/css/collage.jpg);
+    background: url(../css/collage.jpg);
     position: absolute;
     top: -3px;
     left: 0;

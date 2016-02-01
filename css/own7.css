@@ -1,32 +1,29 @@
-body{
-	font-family: 'Quicksand', sans-serif;
+h3 {
+    font-family: 'Quicksand', sans-serif;
+    margin-top: -8%;
 }
-h3{
-	font-family: 'Quicksand', sans-serif;
-	margin-top: -8%;
+.nineth {
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    padding-top: 8%;
+    padding-bottom: 10%;
 }
-.nineth{
-	text-align: center;
-	padding-top: 8%;
-	padding-bottom: 10%;
-	
+.input {
+    font-family: 'Quicksand', sans-serif;
+    text-transform: lowercase;
+    font-size: 2.50em;
+    font-weight: 100;
 }
-.input{
-	text-transform: lowercase;
-	font-size: 2.50em;
-	font-weight: 100;
-}
-
-.home{
+.home {
     width: 6%;
     margin-bottom: 5%;
     margin-top: 13%
 }
-.corner2{
+.corner2 {
     padding-left: 13%;
     padding-top: 5%;
 }
-.corner1{
-	padding-left: 75%;
-    margin-top: -15%;
+.corner1 {
+    padding-left: 75%;
+    margin-top: -7%;
 }
